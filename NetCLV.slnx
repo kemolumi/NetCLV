@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Manager/Manager.csproj" />
+  <Project Path="Node/Node.csproj" />
+</Solution>
